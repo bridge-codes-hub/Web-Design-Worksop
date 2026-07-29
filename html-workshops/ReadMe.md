@@ -2,8 +2,7 @@
 
 This folder contains my practice files from the freeCodeCamp Web Design course. 
 
-### Current Files:
-* **description-lists.html**
+### Description-lists.html**
 * A quick practice project focused on semantic HTML structure using description lists.
 Key Takeaways:
 Semantic Structure: Mastered the use of <dl> (description list), <dt> (the term), and <dd> (the description) to logically group related data.
